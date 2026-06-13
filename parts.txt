@@ -1,6 +1,6 @@
 List of all parts:
 
-- 1 Arduino Uno
+- 1 Arduino Uno R3 or any other Arduino
 - 2 Resistors ≈ 10kΩ and 2 Resistors 220Ω
 - 1 Button (4-Pins)
 - 1 LDR-Sensor
